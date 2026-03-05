@@ -16,9 +16,15 @@
 
 ### stats
 
-[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=yuwxd&show_icons=true&theme=default&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuwxd&theme=default&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=yuwxd&layout=compact&theme=default&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+<table>
+  <tr>
+    <td><img src="https://readme-stats-fast.vercel.app/api?username=yuwxd&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuwxd&theme=transparent&hide_border=true" alt="Streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=yuwxd&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 ---
 
