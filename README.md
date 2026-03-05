@@ -16,9 +16,9 @@
 
 ### stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuwxd&show_icons=true&theme=default&hide_border=true&cache_seconds=86400&v=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuwxd&theme=default&hide_border=true&v=1)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwxd&layout=compact&theme=default&hide_border=true&cache_seconds=86400&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=yuwxd&show_icons=true&theme=default&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuwxd&theme=default&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=yuwxd&layout=compact&theme=default&hide_border=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
