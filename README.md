@@ -1,16 +1,24 @@
 # hey, I'm yuw
 
+<div align="center">
+
 ![Profile views](https://komarev.com/ghpvc/?username=yuwxd&color=24292e&style=flat-square)
 
 **he/him**
 
+</div>
+
 ---
+
+<div align="center">
 
 ### currently building
 
-**Vetements** — an advanced **multipurpose Discord bot**: moderation, music, AI, media tools, games, crypto, GitHub lookups, and more.  
+**shiver** — an advanced **multipurpose Discord bot**: moderation, music, AI, media tools, games, crypto, GitHub lookups, and more.  
 *One bot, many features.*  
-*Visit [vetements.lol](https://vetements.lol/) to see what I've created till now.*
+*Visit [shiver.one](https://shiver.one/) to see what I've created till now.*
+
+</div>
 
 ---
 
@@ -28,4 +36,8 @@
 
 ---
 
-![yuw.lol](https://img.shields.io/badge/Website-yuw.lol-24292e?style=flat-square&logo=link)](https://yuw.lol)
+<div align="center">
+
+[![yuw.lol](https://img.shields.io/badge/Website-yuw.lol-24292e?style=flat-square&logo=link)](https://yuw.lol)
+
+</div>
